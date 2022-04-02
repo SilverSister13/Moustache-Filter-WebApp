@@ -1,0 +1,11 @@
+canvas{
+    border-radius: 10%;
+    box-shadow: 5px 5px 3px grey;
+    border: 5px solid white;
+    background-color: white;
+}
+
+h1{
+    font-size: 25cm;
+    width: 100%;
+}
